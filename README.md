@@ -1,2 +1,2 @@
 - 整理版是基于网络和培训课件整理，如有帮助，可以打赏一杯咖啡 。
-- ![](/Users/linhongzheng/Documents/GitHub/HCIP-Cloud-Service-Solutions-Architect/咖啡.jpeg)
+- ![](./咖啡.jpeg)
